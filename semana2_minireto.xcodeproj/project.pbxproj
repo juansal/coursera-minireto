@@ -47,6 +47,7 @@
 		555D8E241C6618E500E60825 /* semana2_miniretoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = semana2_miniretoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		555D8E281C6618E500E60825 /* semana2_miniretoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = semana2_miniretoUITests.swift; sourceTree = "<group>"; };
 		555D8E2A1C6618E500E60825 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		555D8E361C66207400E60825 /* hola.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = hola.playground; path = semana2_minireto/hola.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		555D8DFC1C6618E500E60825 = {
 			isa = PBXGroup;
 			children = (
+				555D8E361C66207400E60825 /* hola.playground */,
 				555D8E071C6618E500E60825 /* semana2_minireto */,
 				555D8E1C1C6618E500E60825 /* semana2_miniretoTests */,
 				555D8E271C6618E500E60825 /* semana2_miniretoUITests */,
