@@ -27,7 +27,7 @@
 		555D8E051C6618E500E60825 /* semana2_minireto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = semana2_minireto.app; path = "/Users/saver/programas/semana2_minireto/build/Debug-iphoneos/semana2_minireto.app"; sourceTree = "<absolute>"; };
 		555D8E191C6618E500E60825 /* semana2_miniretoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = semana2_miniretoTests.xctest; path = "/Users/saver/programas/semana2_minireto/build/Debug-iphoneos/semana2_miniretoTests.xctest"; sourceTree = "<absolute>"; };
 		555D8E241C6618E500E60825 /* semana2_miniretoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = semana2_miniretoUITests.xctest; path = "/Users/saver/programas/semana2_minireto/build/Debug-iphoneos/semana2_miniretoUITests.xctest"; sourceTree = "<absolute>"; };
-		555D8E361C66207400E60825 /* hola.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = hola.playground; path = semana2_minireto/hola.playground; sourceTree = "<group>"; };
+		555D8E361C66207400E60825 /* minireto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = minireto.playground; path = semana2_minireto/minireto.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +58,7 @@
 		555D8DFC1C6618E500E60825 = {
 			isa = PBXGroup;
 			children = (
-				555D8E361C66207400E60825 /* hola.playground */,
+				555D8E361C66207400E60825 /* minireto.playground */,
 			);
 			sourceTree = "<group>";
 		};
